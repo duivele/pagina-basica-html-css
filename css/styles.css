@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* Cambia el color de fondo a uno de tu preferencia */
+    background-color: #929191;
+    color:#800020;
+   }
+   header {
+    /* Agrega un color de fondo y color de texto de tu elecc
+   ión */
+    background-color: #8b8a8a;
+    color: #800020;
+    text-align: center;
+    padding: 1em 0;
+   }
+   main {
+    padding: 20px;
+    text-align: center;
+    color: #800020;
+   }
+   footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+   }
